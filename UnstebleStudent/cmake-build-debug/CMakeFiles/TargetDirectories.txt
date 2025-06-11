@@ -1,0 +1,3 @@
+C:/PR1/UnstebleStudent/cmake-build-debug/CMakeFiles/UnstebleStudent.dir
+C:/PR1/UnstebleStudent/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PR1/UnstebleStudent/cmake-build-debug/CMakeFiles/rebuild_cache.dir

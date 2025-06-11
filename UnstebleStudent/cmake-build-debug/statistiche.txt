@@ -1,0 +1,3 @@
+Riccardo,0,5
+Alessio,0,3
+Luca,0,3

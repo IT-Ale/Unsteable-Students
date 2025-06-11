@@ -1,0 +1,21 @@
+Inizio della partita
+TURNO 1: Alessio pesca Studente Trassato
+TURNO 1: Alessio pesca Due per Uno
+TURNO 1: Alessio pesca Allerta meteo
+TURNO 1: Alessio pesca Ottimo Affare
+TURNO 1: Alessio pesca MAI
+TURNO 1: Riccardo pesca Aperitivo da Tiffany
+TURNO 1: Riccardo pesca Studente Erasmus
+TURNO 1: Riccardo pesca Laureando Snitch
+TURNO 1: Riccardo pesca Laureando Snitch
+TURNO 1: Riccardo pesca Attacco Hacker
+TURNO 1: Alessio pesca Ottimo Affare
+TURNO 1: Alessio gioca Studente Trassato
+TURNO 2:
+TURNO 2: Riccardo pesca Salta fila in mensa
+TURNO 2: Riccardo pesca Studente Freddoloso
+TURNO 2: Riccardo scarta Salta fila in mensa
+TURNO 2: Riccardo scarta Aperitivo da Tiffany
+TURNO 3:
+TURNO 3: Alessio pesca Laureando Ladro
+TURNO 3: Alessio pesca Laureando Ladro
