@@ -32,8 +32,7 @@
 <br>
 
 ## Descrizione e scopo strutture aggiuntive
-> [!TIP]
-> Descrivere le strutture dati aggiuntive utilizzate nel progetto e perché vi sono tornate utili (se presenti).
+
 ### Struttura `Statistica` 
 typedef struct {   <br>
     char nomePersonaggio[NOME]; // Nome del personaggio <br>
@@ -43,8 +42,7 @@ typedef struct {   <br>
 <br>
 
 ## Descrizione flusso di gioco
-> [!TIP]
-> Descrivere ad alto livello come vengono gestite le varie fasi di gioco (es. il loop principale, la gestione degli eventi, ecc.)
+
 > 
 ### **1. Avvio programma (`main.c`)**<br>
 - All'avvio del programma, l'utente **inserisce il nome del file di salvataggio**.<br>
@@ -82,8 +80,7 @@ Per ogni turno (**generico**):<br>
 <br>
 
 ## Descrizione logica AI
-> [!NOTE]
-> Questa sezione va compilata solo se si sta svolgendo il progetto AVANZATO.
+
 ### **Scelta carte**<br>
 Durante il proprio turno, l'IA seleziona automaticamente la carta più opportuna da giocare, seguendo una logica basata su priorità e situazione di gioco corrente:<br>
 
